@@ -11,3 +11,6 @@ Bonjour! Mon nom est Luca, et je suis au collège depuis la session d'hiver 2023
 - En **secondaire 2**, j'ai commencé à composer de la musique électronique avec **FL Studio**. Plus tard, j'ai pu faire un peu d'argent en faisant de la musique pour les jeux de mes amis.
   
 - La réalité virtuelle me fascine, ce qui m'a poussé à m'acheter un casque VR l'année dernière.
+
+## Une vidéo qui me représente
+https://www.youtube.com/watch?v=X8avbciUP3c
