@@ -4,4 +4,4 @@
 
 ## À propos de moi
 
-aaaa
+Bonjour! Mon nom est Luca, et je suis au collège depuis la session d'hiver 2023. J'ai commencé en **Technique de l'Architecture** et ai changé pour la **Technique d'Intégration Multimédia**.
