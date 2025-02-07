@@ -6,4 +6,10 @@
 
 - **Type d'exposition :** Temporaire, intérieure, à thème (cuisine)
 
-- 
+- **Date de la visite :** 31 janvier 2025
+
+- **Nom de la firme :** Universcience
+
+- **Année de réalisation** : 2021
+
+# 
