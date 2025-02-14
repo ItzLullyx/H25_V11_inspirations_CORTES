@@ -2,6 +2,8 @@
 
 - **Nom de l'exposition :** Le fouet, la crème fouettée
 
+![image1](
+
 - **Lieu de mise en exposition :** Centre Des Sciences
 
 - **Type d'exposition :** Temporaire, intérieure, à thème (cuisine)
