@@ -1,4 +1,4 @@
-Expositions Finissants (
+# Expositions Finissants (
 
 - **Nom de l'exposition :**
 
